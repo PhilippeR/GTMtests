@@ -1,3 +1,6 @@
 Autoplay
 https://webkit.org/blog/6784/new-video-policies-for-ios/
 https://blog.synq.fm/html5-video-looping-autoplay-on-ios-and-android
+
+
+<video class="styles__heroVideo___36SwW" autoplay="" loop="" playsinline=""><source src="https://cdn.curiositystream.com/videos/hero-video/holiday2018_360p.mp4" type="video/mp4"></video>
